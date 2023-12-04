@@ -1,6 +1,6 @@
 ## Hi! My name is Yaodad P. Barro 😁
 
-👉 I am a Web Developer from Bulacan, Philippines.
+👉 I am a web developer from Bulacan, Philippines.
 
 ### Used tech stack
 
